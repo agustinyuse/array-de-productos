@@ -11,4 +11,4 @@ node index.js
 
 ### api ejemplo
 
-api/productos/listar
+/api/productos/listar
