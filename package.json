@@ -1,0 +1,22 @@
+{
+  "name": "array-de-productos",
+  "version": "1.0.0",
+  "description": "Desafío entregable en coderhouse: Array de productos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agustinyuse/array-de-productos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agustinyuse/array-de-productos/issues"
+  },
+  "homepage": "https://github.com/agustinyuse/array-de-productos#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
